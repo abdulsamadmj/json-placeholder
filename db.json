@@ -1,0 +1,14 @@
+{
+  "scholarship-table-headers": [
+    { "id": 1, "field": "id" },
+    { "id": 2, "field": "body" },
+    { "id": 3, "field": "postId" }
+  ],
+  "scholarship-students": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
