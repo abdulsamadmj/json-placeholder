@@ -1,5 +1,4 @@
 {
-  "scholarship-table": {
     "headers":[
       { "id": 1, "field": "id" },
       { "id": 2, "field": "body" },
@@ -15,5 +14,4 @@
       { "id": 4, "body": "jabajaba", "postId": 10 },
       { "id": 5, "body": "qwertyuiop", "postId": 12 }
     ],
-  }
 }
