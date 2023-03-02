@@ -1,9 +1,9 @@
 {
     "table": {
         "headers":[
-            { "id": 1, "field": "id" },
-            { "id": 2, "field": "body" },
-            { "id": 3, "field": "postId" }
+            { "id": 1, "field": "id", "title": "ID" },
+            { "id": 2, "field": "body", "title": "Body" },
+            { "id": 3, "field": "postId", "title": "PostId" }
         ],
         "rowsPerPage": 5,
         "page": 0,
